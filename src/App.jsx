@@ -1,5 +1,12 @@
 import AppRouter from './AppRouter'
+import { AuthProvider } from './auth'
 
-const App = () => <AppRouter />
+const App = () => {
+  return (
+    <AuthProvider>
+      <AppRouter />
+    </AuthProvider>
+  )
+}
 
 export default App
