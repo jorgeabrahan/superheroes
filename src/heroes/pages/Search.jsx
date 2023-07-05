@@ -28,7 +28,7 @@ export const Search = () => {
         <div className="col-5">
           <h4>Searching</h4>
           <hr />
-          <form onSubmit={onSearch}>
+          <form onSubmit={onSearch} aria-label="form">
             <input
               className="form-control"
               type="text"
