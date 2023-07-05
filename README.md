@@ -27,6 +27,9 @@
 
 **SuperHeroes** web application built in React using private and public routes, context for user authentication and query params to preserve searches.
 
+Tests running
+![tests running](./repo_images/tests-running.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
