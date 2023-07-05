@@ -68,7 +68,7 @@ Tests running
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-No live demo available yet!
+[https://superheroes-1ut5.onrender.com/](https://superheroes-1ut5.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +146,7 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Create tests and a more structured API**
+- [ ] **Retreive data from an API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,8 +157,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
