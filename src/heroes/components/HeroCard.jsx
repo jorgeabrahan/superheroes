@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import PropTypes from 'prop-types'
 
 export const HeroCard = ({ id, superhero, alter_ego, first_appearance, characters }) => {
-  const heroImg = `/assets/heroes/${id}.jpg`
+  const heroImg = `/images/heroes/${id}.jpg`
   const displayCharacters = alter_ego !== characters
 
   return (
